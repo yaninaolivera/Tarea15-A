@@ -1,0 +1,56 @@
+section {
+    background-color: lightgray;
+    width: 18%;
+    height: 100vh;
+    float: left;
+    padding: 15px;
+}
+
+.btn-pink {
+    background-color: hotpink;
+    color: white;
+}
+
+main {
+    width: 57%;
+    float: left;
+    padding: 15px;
+}
+
+.nav-tabs a {
+    padding: 8px 5px 15px 2px;
+    margin-right: 40px;
+}
+
+.nav-active {
+    border: none !important;
+    border-bottom: 3px solid hotpink !important;
+    color: hotpink !important;
+}
+
+.icon i {
+    padding: 10px 14px;
+    border-radius: 50%;
+    color: white;
+    font-size: 25px;
+}
+
+.border-line {
+    border-style: dashed;
+}
+
+aside {
+    width: 25%;
+    height: 100vh;
+    float: left;
+    padding: 15px;
+    border-left: 1px solid lightgray;
+}
+
+.footer {
+    padding: 15px 15px 20px 15px;
+}
+
+.footer a {
+    text-decoration: none;
+}

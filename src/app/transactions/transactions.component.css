@@ -1,0 +1,17 @@
+.filter {
+    float: right;
+}
+.form label{
+    margin-right: 15px;
+}
+
+.icon-transaction{
+    padding-top: 13px;
+}
+
+.icon-transaction i {
+    padding: 5px 7px;
+    border-radius: 50%;
+    color: white;
+    font-size: 15px;
+}
